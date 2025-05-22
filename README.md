@@ -8,7 +8,7 @@
 
 📚 Me gusta aprender cosas nuevas cada día
 
-☕ Me acompaño de buena música para estudiar
+🎧 Me acompaño de buena música para estudiar
 
 🌱 Ahora mismo estoy aprendiendo: Python y lógica de programación
 
