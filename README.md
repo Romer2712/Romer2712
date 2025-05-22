@@ -21,7 +21,8 @@ Lenguajes
 Herramientas
 
 
-🚀 Mi meta
+🚀 Mi meta:
+
 Aprender lo suficiente para crear mis primeros proyectos y compartirlos con el mundo.
 ¡Estoy disfrutando cada paso del camino!
 
