@@ -20,6 +20,8 @@ Lenguajes
 
 Herramientas
 
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 🚀 Mi meta:
 
