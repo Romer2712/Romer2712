@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Romer Aguilar Rodriguez 👋</h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Estudiante+de+Programaci%C3%B3n+👨‍🎓;Aprendiendo+paso+a+paso+💡;Amante+del+c%C3%B3digo;Dando+mis+primeros+pasos+en+la+tecnologia+🚀" alt="Typing SVG" /> </p> <p align="center">💡 <em>"Cada línea de código es una pequeña victoria. ¡Sigue adelante!"</em></p>
+<h1 align="center">¡Hola! Soy Romer Aguilar Rodriguez 👋</h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Estudiante+de+Programaci%C3%B3n+👨‍🎓;Aprendiendo+paso+a+paso+💡;Amante+del+c%C3%B3digo" alt="Typing SVG" /> </p> <p align="center">💡 <em>"Cada línea de código es una pequeña victoria. ¡Sigue adelante!"</em></p>
 
 🧑‍🎓 Sobre mí:
 
